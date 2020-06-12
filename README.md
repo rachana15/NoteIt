@@ -1,2 +1,2 @@
 # NoteIt
-E-Learning Web Application developed using HTML, CSS &amp; PhP
+E-Learning Web Application developed using HTML, CSS &amp; php.
